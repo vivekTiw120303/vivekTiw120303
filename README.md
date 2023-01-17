@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
 <h3 align="center">A passionate and smart-working programmer.</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektiw120303" alt="vivektiw120303" /></a> </p>
 
