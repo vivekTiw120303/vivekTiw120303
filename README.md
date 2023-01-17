@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
 <h3 align="center">A passionate and smart-working programmer.</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektiw120303" alt="vivektiw120303" /></a> </p>
-
-- 🔭 I’m currently working on **Chat Messenger App**
+- 🔭 I’m currently working on **Chat Messenger App using FLutter**
 
 - 🌱 I’m currently learning **Flutter, C++**
 
@@ -32,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivektiw120303&show_icons=true&locale=en&layout=compact" alt="vivektiw120303" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivektiw120303&show_icons=true&locale=en" alt="vivektiw120303" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivektiw120303&" alt="vivektiw120303" /></p>
